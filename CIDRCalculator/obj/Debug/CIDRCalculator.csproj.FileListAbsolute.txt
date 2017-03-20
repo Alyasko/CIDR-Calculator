@@ -1,0 +1,4 @@
+D:\Projects\Desktop\CIDRCalculator\CIDRCalculator\bin\Debug\CIDRCalculator.dll
+D:\Projects\Desktop\CIDRCalculator\CIDRCalculator\bin\Debug\CIDRCalculator.pdb
+D:\Projects\Desktop\CIDRCalculator\CIDRCalculator\obj\Debug\CIDRCalculator.dll
+D:\Projects\Desktop\CIDRCalculator\CIDRCalculator\obj\Debug\CIDRCalculator.pdb

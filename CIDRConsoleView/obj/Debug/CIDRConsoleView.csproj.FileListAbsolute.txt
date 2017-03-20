@@ -1,0 +1,8 @@
+D:\Projects\Desktop\CIDRCalculator\CIDRConsoleView\bin\Debug\CIDRConsoleView.exe.config
+D:\Projects\Desktop\CIDRCalculator\CIDRConsoleView\bin\Debug\CIDRConsoleView.exe
+D:\Projects\Desktop\CIDRCalculator\CIDRConsoleView\bin\Debug\CIDRConsoleView.pdb
+D:\Projects\Desktop\CIDRCalculator\CIDRConsoleView\obj\Debug\CIDRConsoleView.csprojResolveAssemblyReference.cache
+D:\Projects\Desktop\CIDRCalculator\CIDRConsoleView\obj\Debug\CIDRConsoleView.exe
+D:\Projects\Desktop\CIDRCalculator\CIDRConsoleView\obj\Debug\CIDRConsoleView.pdb
+D:\Projects\Desktop\CIDRCalculator\CIDRConsoleView\bin\Debug\CIDRCalculator.dll
+D:\Projects\Desktop\CIDRCalculator\CIDRConsoleView\bin\Debug\CIDRCalculator.pdb
