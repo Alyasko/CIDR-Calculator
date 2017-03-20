@@ -18,7 +18,7 @@ namespace CIDRCalculator
         /// Goes through input subnetworks and calculates details of each subnetwork according to ISP IP address.
         /// </summary>
         /// <returns>New instance of subnetworks list. Subnetworks instances are the same.</returns>
-        public IEnumerable<Subnetwork> Calculate()
+        public IList<Subnetwork> Calculate()
         {
             IList<Subnetwork> sortedSubnetworks = SortInputSubnetworks();
 
@@ -126,7 +126,10 @@ namespace CIDRCalculator
             address.Parse(mergedIpAddress, address.Mask);
         }
 
-
+        /// <summary>
+        /// Sorts subnetworks by hosts count.
+        /// </summary>
+        /// <returns></returns>
         private IList<Subnetwork> SortInputSubnetworks()
         {
             return InputSubnetworks.OrderByDescending(x => x.NodesCount).ToList();

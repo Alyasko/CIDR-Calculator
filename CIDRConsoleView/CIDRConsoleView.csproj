@@ -42,7 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Implementation\CsvCidrExporter.cs" />
+    <Compile Include="Interfaces\ICidrExporter.cs" />
     <Compile Include="InputConfigReader.cs" />
+    <Compile Include="Interfaces\ICsvCidrExporter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Worker.cs" />

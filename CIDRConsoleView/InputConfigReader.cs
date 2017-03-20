@@ -18,7 +18,7 @@ namespace CIDRConsoleView
 
         public String FilePath { get; set; }
 
-        public IEnumerable<Subnetwork> LoadConfig()
+        public IList<Subnetwork> LoadConfig()
         {
             List<Subnetwork> subnetworks = new List<Subnetwork>();
 
