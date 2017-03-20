@@ -2,3 +2,8 @@ D:\Projects\Desktop\CIDRCalculator\CIDRCalculator\bin\Debug\CIDRCalculator.dll
 D:\Projects\Desktop\CIDRCalculator\CIDRCalculator\bin\Debug\CIDRCalculator.pdb
 D:\Projects\Desktop\CIDRCalculator\CIDRCalculator\obj\Debug\CIDRCalculator.dll
 D:\Projects\Desktop\CIDRCalculator\CIDRCalculator\obj\Debug\CIDRCalculator.pdb
+D:\Projects\Desktop\CIDR-Calculator\CIDRCalculator\bin\Debug\CIDRCalculator.dll
+D:\Projects\Desktop\CIDR-Calculator\CIDRCalculator\bin\Debug\CIDRCalculator.pdb
+D:\Projects\Desktop\CIDR-Calculator\CIDRCalculator\obj\Debug\CIDRCalculator.csprojResolveAssemblyReference.cache
+D:\Projects\Desktop\CIDR-Calculator\CIDRCalculator\obj\Debug\CIDRCalculator.dll
+D:\Projects\Desktop\CIDR-Calculator\CIDRCalculator\obj\Debug\CIDRCalculator.pdb

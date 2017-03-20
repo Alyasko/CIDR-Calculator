@@ -14,5 +14,9 @@ namespace CIDRCalculator
         public IPv4Address FirstNodeAddress { get; set; }
         public IPv4Address LastNodeAddress { get; set; }
 
+        public override string ToString()
+        {
+            return NetworkAddress.ToString();
+        }
     }
 }
